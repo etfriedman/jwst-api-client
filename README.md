@@ -19,6 +19,8 @@ To run the tool, open a terminal or command prompt and navigate to the directory
 Once you have run the program with your API key, type `help` to learn more on how to use the program.
 - If you would rather get an API key yourself, go to the [JWST API](https://jwstapi.com/) website and scoll down.
 
+Downloaded data will be stored in a folder called `JWST_data` in the same directory where you clone this repo.
+
 ### Example Usage:
 https://user-images.githubusercontent.com/32680186/206341951-f2a2a4b6-9c2e-4ae9-9e9a-3afb0f50c9fa.mp4
 
