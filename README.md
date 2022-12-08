@@ -14,9 +14,10 @@ See [requirements](https://github.com/etfriedman/jwst-api-client/edit/master/REA
 ## Usage
 
 To run the tool, open a terminal or command prompt and navigate to the directory where you cloned the repository. Then run the following command:
-`python3 JWST_DE.py --key YOUR_API_KEY` (replacing YOUR_API_KEY with the key you requested)
+`python3 JWST_DE.py --key YOUR_API_KEY` (replacing YOUR_API_KEY with your own API key)
 - If you do not yet have a key, run `python3 JWST_DE.py` and the program will walk you through generating one.
 Once you have run the program with your API key, type `help` to learn more on how to use the program.
+- If you would rather get an API key yourself, go to the [JWST API](https://jwstapi.com/) website and scoll down.
 
 ### Example Usage:
 https://user-images.githubusercontent.com/32680186/206341951-f2a2a4b6-9c2e-4ae9-9e9a-3afb0f50c9fa.mp4
