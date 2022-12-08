@@ -30,4 +30,4 @@ https://user-images.githubusercontent.com/32680186/206341951-f2a2a4b6-9c2e-4ae9-
 		-  `pip install -r requirements.txt`
 - A JWST API Key, this program can request one for you, all you need is an email address. Alternatively, if you would like to request one yourself, go to https://jwstapi.com and scroll down.
 
-This tool uses the API built by [Kyle Redelinghuys](https://www.ksred.com/) called [JWST API](https://jwstapi.com/)
+This tool uses the (unofficial) James Webb Space Telescope API built by [Kyle Redelinghuys](https://www.ksred.com/) called [JWST API](https://jwstapi.com/).
