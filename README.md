@@ -9,7 +9,7 @@ To use this tool, you will need to have [Python 3](https://www.python.org/downlo
 2.  Navigate to the directory where you cloned the repository
 3.  Install the required dependencies by running `pip install -r requirements.txt`
 	- Note: if the python requests library is already installed this step is not required.
-See [requirements](https://github.com/etfriedman/jwst-api-client/edit/master/README.md#requirements) for more information
+See [requirements](https://github.com/etfriedman/jwst-api-client#requirements) for more information
 
 ## Usage
 
